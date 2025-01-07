@@ -10,7 +10,7 @@
   <a href="https://developers.google.com/profile/u/114792782704896672596">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/225px-Google_%22G%22_logo.svg.png" height="45" alt="Google"/>&nbsp;&nbsp;
   </a>
-   <a href="https://www.linkedin.com/in/prathamr-dev/">
+   <a href="https://www.linkedin.com/in/CodesByPratham/">
     <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/linkedin.svg?theme=light" height="45" alt="LinkedIn"/>&nbsp;&nbsp;
   </a>
   <a href="https://x.com/Pratham_Codes">

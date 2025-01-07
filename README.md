@@ -89,21 +89,21 @@
 
 <div align="center" >
   <h1> STATS | STREAK</h1>
-  <img src="https://github-readme-stats.vercel.app/api?username=prathamr-codes&theme=react&show_icons=true&hide_border=true&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathamr-codes&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CodesByPratham&theme=react&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodesByPratham&theme=react&hide_border=true" />
 </div>
 
 <br>
 
 <div align="center">  
   <h1> TOP LANGUAGES USED </h1>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathamr-codes&theme=react&show_icons=true&hide_border=true&layout=compact" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodesByPratham&theme=react&show_icons=true&hide_border=true&layout=compact" height="200" />
 </div>
 
 <br>
 
 <div align="center">  
   <h1> IMPORTANT REPOSITORIES </h1>
-  <a href="https://github.com/Prathamr-codes/Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamr-codes&repo=java&show_owner=true&show_icons=true&theme=react" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/Prathamr-codes/Gemini-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Prathamr-codes&repo=Gemini-API&show_owner=true&show_icons=true&theme=react" /></a>
+  <a href="https://github.com/CodesByPratham/Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByPratham&repo=java&show_owner=true&show_icons=true&theme=react" /></a>&nbsp;&nbsp;
+  <a href="https://github.com/CodesByPratham/Gemini-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CodesByPratham&repo=Gemini-API&show_owner=true&show_icons=true&theme=react" /></a>
 </div>

@@ -43,7 +43,7 @@
   <h1>LANGUAGES | FRAMEWORK | LIBRARIES </h1>
   <div>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=java&theme=dark" height="55" alt="icons"/>
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate&theme=dark" height="55" alt="icons"/>
+<!--     <img src="https://go-skill-icons.vercel.app/api/icons?i=hibernate&theme=dark" height="55" alt="icons"/> -->
     <img src="https://go-skill-icons.vercel.app/api/icons?i=spring&theme=dark" height="55" alt="icons"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=php&theme=dark" height="55" alt="icons"/>
     <img src="https://go-skill-icons.vercel.app/api/icons?i=c&theme=dark" height="55" alt="icons"/>
